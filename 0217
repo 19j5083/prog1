@@ -1,0 +1,6 @@
+<?php
+// Your code here!
+print("1\t2\3")
+print("4\t5\t6")
+print("7\t8\t9")
+?>
