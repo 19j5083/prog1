@@ -1,0 +1,6 @@
+# coding: utf-8
+# Your code here!
+print("Hello,World !")
+print("ello,World !")
+print("Hello,")
+print("World !")
