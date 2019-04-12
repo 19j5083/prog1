@@ -1,4 +1,0 @@
-<?php
-// Your code here!
-print("1\t2\t3\n4\t5\n6")
-?>
