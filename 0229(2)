@@ -1,0 +1,5 @@
+# coding: utf-8
+# Your code here!
+print("\"\\/\"")
+print("(\"\\/\")")
+print("print(\"\\/\")")
