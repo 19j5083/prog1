@@ -1,0 +1,6 @@
+a=20853
+b=3843
+for x in range(5):
+    r=a%b
+    b=r
+    print(r,end=" ")
